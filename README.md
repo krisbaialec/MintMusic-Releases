@@ -5,7 +5,9 @@
 本仓库提供发布说明、许可证、更新日志、界面截图和 Release APK。源码及开发历史暂保存在私人仓库，公开版本由维护者手动决定，不自动同步。
 
 <!-- RELEASE-STATUS -->
-**待发布版本：v1.1.3，尚未公开 APK。** 确认发布后，本页会更新为正式下载入口。
+最新正式版：[v1.1.3](https://github.com/krisbaialec/MintMusic-Releases/releases/tag/v1.1.3)。文件 MintPlus-1.1.3-arm64-release.apk，40,391,210 字节。
+
+SHA-256：`92ac618a6735974602ea577cdb49dc34b016d8be26dd69b6d7912b173a826c6b`。
 <!-- /RELEASE-STATUS -->
 
 ## 下载与安装
@@ -36,7 +38,7 @@ Android 桌面歌词实现参考 [lyswhut/lx-music-mobile](https://github.com/ly
 完整主项目许可及已收集的第三方声明见 [LICENSE](LICENSE)。主项目的 MIT 许可不替代第三方组件的独立许可，也不表示原项目的代码变成专有许可。
 
 <!-- LICENSE-REVIEW -->
-AMLL Core 0.5.1 为 AGPL-3.0-only，相关源码提供安排尚未完成；JAudioTagger 的 LGPL 分发材料、原有字体的单独分发授权仍待核实。
+AMLL Core 0.5.1 的源码提供安排、JAudioTagger LGPL 分发材料和原有字体授权仍待核实；用途声明不替代许可证。
 <!-- /LICENSE-REVIEW -->
 
 ## 使用声明
