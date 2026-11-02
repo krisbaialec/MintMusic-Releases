@@ -228,6 +228,7 @@ https://github.com/lyswhut/lx-music-mobile
 JAudioTagger Android library: LGPL; https://github.com/AdrienPoupa/jaudiotagger
 Library provenance, corresponding source and relinking compliance require completion before public binary distribution.
 
+Historical notice only: Noto Sans SC is NOT bundled in v1.1.3. The following notice is retained from the previous local candidate.
 Noto Sans SC (unmodified, SIL OFL 1.1): https://github.com/google/fonts/tree/main/ofl/notosanssc
 Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'
 
